@@ -1,0 +1,29 @@
+{
+  "name": "demo-react",
+  "version": "0.1.0",
+  "description": "demo React",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nikrou/demo-react.git"
+  },
+  "author": "Nicolas <nikrou77@gmail.com>",
+  "license": "GPL-V2",
+  "bugs": {
+    "url": "https://github.com/nikrou/demo-react/issues"
+  },
+  "homepage": "https://github.com/nikrou/demo-react",
+  "dependencies": {
+    "react": "^0.14.2",
+    "react-dom": "^0.14.2"
+  },
+  "devDependencies": {
+    "babel": "^5.8.34",
+    "babel-core": "^5.8.34",
+    "babel-loader": "^5.4.0",
+    "webpack": "^1.12.6"
+  }
+}
